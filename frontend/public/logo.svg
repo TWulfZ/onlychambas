@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 331.89584 258.22772"
+   xml:space="preserve"
+   width="331.89584"
+   height="258.22772"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4" />
+<style
+   type="text/css"
+   id="style1">
+</style>
+
+
+<g
+   id="layer1"
+   style="display:inline"
+   transform="translate(0,-5.174602)"><path
+     id="path5"
+     style="display:inline;fill:#ff8810;fill-opacity:1;stroke:none;stroke-width:1.00424;stroke-linejoin:round;stroke-dasharray:7.05837, 7.05837;stroke-dashoffset:8.82297;paint-order:stroke fill markers"
+     d="M 125,13.404297 A 124.99982,124.99982 0 0 0 0,138.40234 a 124.99982,124.99982 0 0 0 125,125 124.99982,124.99982 0 0 0 125,-125 A 124.99982,124.99982 0 0 0 125,13.404297 Z m 0,87.501953 a 37.499931,37.499931 0 0 1 37.5,37.5 37.499931,37.499931 0 0 1 -37.5,37.5 37.499931,37.499931 0 0 1 -37.5,-37.5 37.499931,37.499931 0 0 1 37.5,-37.5 z" /></g><g
+   style="display:inline;fill:#ffa430;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="g5"
+   transform="matrix(-0.28930596,-0.42967053,0.42967053,-0.28930596,138.22125,281.284)"><g
+     id="g2-1"
+     style="fill:#ffa430;fill-opacity:1;stroke:none;stroke-opacity:1"
+     transform="rotate(12.283331,162.60807,238.83371)">
+	<g
+   id="g1"
+   style="fill:#ffa430;fill-opacity:1;stroke:none;stroke-opacity:1">
+		<path
+   d="M 39.092692,-36.58054 173.79554,311.94268 108.3442,337.23954 c -7.50263,2.90075 -11.234041,11.33366 -8.33553,18.83814 l 41.95831,108.55994 c 18.71701,48.4271 60.67742,84.08828 111.48874,94.75493 l 41.78391,8.77065 c 7.11425,1.49318 14.4408,-1.33852 18.70213,-7.22932 l 25.02431,-34.59196 c 30.43296,-42.06649 37.50075,-96.67895 18.78307,-145.10777 L 315.79084,272.6742 c -2.89904,-7.5033 -11.33365,-11.23405 -18.83813,-8.33554 L 231.50138,289.63553 96.816319,-58.841676 Z"
+   id="path1-7"
+   style="fill:#ffa430;fill-opacity:1;stroke:none;stroke-width:1.29226;stroke-opacity:1" />
+	</g>
+</g></g></svg>
