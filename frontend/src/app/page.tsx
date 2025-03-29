@@ -1,4 +1,4 @@
-import OnlyChambasLogo from "@/components/icons";
+import { OnlyChambasLogo } from "@/components/icons";
 import LoginForm from "@/components/login-form";
 import Link from "next/link";
 
@@ -25,17 +25,11 @@ export default function Home() {
               , y confirmas que tienes al menos 18 años.
             </p>
             <section className="flex flex-col items-center text-[0.9rem] text-primary py-[30px]">
-              <Link href="/reset-password">
-                ¿Has olvidado la contraseña?
-              </Link>
-              <Link href="/register">
-                Regístrate para OnlyChambas
-              </Link>
+              <Link href="/reset-password">¿Has olvidado la contraseña?</Link>
+              <Link href="/register">Regístrate para OnlyChambas</Link>
             </section>
             {/* Login Methods */}
-            <section>
-              
-            </section>
+            <section></section>
           </div>
         </div>
       </section>

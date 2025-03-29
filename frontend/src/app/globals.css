@@ -116,6 +116,10 @@
   }
 }
 
+.tab-header {
+  @apply border-0 text-base data-[state=active]:border-b-4 font-normal data-[state=active]:border-primary data-[state=active]:font-bold bg-transparent w-32 mx-auto data-[state=active]:shadow-none h-full;
+}
+
 .bg-logo {
   background-image: url('/logo_w.svg');
   background-position: -2rem 20rem;
